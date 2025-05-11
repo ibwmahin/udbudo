@@ -1,6 +1,9 @@
 # 🛍️ Udbudo – The Shop You Need
 
 **Udbudo** is a modern, fast, and responsive e-commerce web application built with React and Vite. It offers a sleek UI, smooth user experience, and a curated collection of all things tech — gadgets, accessories, and digital essentials.
+/******\******* ✨ Windsurf Command ⭐ ******\*******/
+![Udbudo Preview](public/udbudo website.png)
+/**\*\*\*** 820a8487-3027-4fff-803e-b6c6de51f036 **\*\*\***/
 
 > ⚡ Built by [Mahin](https://github.com/ibwmahin) — a focused self-taught developer crafting powerful web experiences.
 
