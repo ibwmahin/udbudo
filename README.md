@@ -2,6 +2,8 @@
 
 **Udbudo** is a modern, fast, and responsive e-commerce web application built with React and Vite. It offers a sleek UI, smooth user experience, and a curated collection of all things tech — gadgets, accessories, and digital essentials.
 
+<!-- image added -->
+
 ![Udbudo Preview](public/udbudo.png)
 
 > ⚡ Built by [Mahin](https://github.com/ibwmahin) — a focused self-taught developer crafting powerful web experiences.
